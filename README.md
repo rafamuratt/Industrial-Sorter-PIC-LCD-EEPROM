@@ -1,3 +1,5 @@
+[![License: MT-SAL v1.0](https://img.shields.io/badge/License-MT--SAL%20v1.0-blue)](https://github.com/rafamuratt/Industrial-Sorter-PIC-LCD-EEPROM?tab=License-1-ov-file)
+
 # Industrial-Sorter PIC LCD EEPROM
 
 > This project utilizes the MikroC Pro for PIC LCD library in 4-bit mode to drive a 16x2 character display.  
