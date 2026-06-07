@@ -3,7 +3,7 @@
 # Industrial-Sorter PIC LCD EEPROM
 
 > This project utilizes the MikroC Pro for PIC LCD library in 4-bit mode to drive a 16x2 character display.  
-The firmware is highly optimized for the PIC16F628A, utilizing 99% of available ROM. 
+The firmware is highly optimized for the PIC16F628A, utilizing 99% of available ROM :') 
 
 **Disclaimer:** The code is stable for hobbyist/educational purposes. NOT FOR USE IN CRITICAL APPLICATIONS. IMPLEMENT AT YOUR OWN RISK.  
 
